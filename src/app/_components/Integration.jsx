@@ -69,9 +69,9 @@ const integration = () => {
           <Image src={"/TESTIMONIAL.png"} width={250} height={300} className="rounded-xl" />
           <div className=" relative top-[-100px] left-10 bg-white shadow-xl w-72 border-l-4  border-red-400 rounded-md p-5">
             <p className="text-xs mb-3">
-              "Thank you so much for your help. It's exactly what I've been
-              looking for. You won't regret it. It really saves me time and
-              effort. Skilline is exactly what our business has been lacking."
+            &quot;Thank you so much for your help. It&apos;s exactly what I&apos;ve been
+              looking for. You won&apos;t regret it. It really saves me time and
+              effort. Skilline is exactly what our business has been lacking.&quot;
             </p>
             <div className="flex  justify-between">
               <p className="text-sm">Gloria Rose</p>{" "}

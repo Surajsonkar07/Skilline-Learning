@@ -32,7 +32,7 @@ const Feature = () => {
               className="text-[#2F327D] rounded-full  shadow-lg p-2"
             />
             <p className="text-sm">
-              Teachers don’t get lost in the grid view <br />
+              Teachers don&apos;t get lost in the grid view <br />
               and have a dedicated Podium space.
             </p>
           </div>{" "}

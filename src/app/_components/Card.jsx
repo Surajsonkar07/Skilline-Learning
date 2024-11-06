@@ -25,7 +25,7 @@ const Card = () => {
             Online Billing, Invoicing, & Contracts
           </h1>
           <p className="text-sm">
-            Simple and secure control of your organization’s financial and legal
+            Simple and secure control of your organization&apos;s financial and legal
             transactions. Send customized invoices and contracts
           </p>
         </div>{" "}
@@ -39,7 +39,7 @@ const Card = () => {
             Online Billing, Invoicing, & Contracts
           </h1>
           <p className="text-sm">
-            Simple and secure control of your organization’s financial and legal
+            Simple and secure control of your organization&apos;s financial and legal
             transactions. Send customized invoices and contracts
           </p>
         </div>{" "}
@@ -53,7 +53,7 @@ const Card = () => {
             Online Billing, Invoicing, & Contracts
           </h1>
           <p className="text-sm">
-            Simple and secure control of your organization’s financial and legal
+            Simple and secure control of your organization&apos;s financial and legal
             transactions. Send customized invoices and contracts
           </p>
         </div>

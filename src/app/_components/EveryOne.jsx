@@ -11,7 +11,7 @@ const EveryOne = () => {
          , you can do with Skilline
         </h1>
         <p className="mt-2">
-          Skilline’s school management software helps traditional <br /> and online
+          Skilline&apos;s school management software helps traditional <br /> and online
           schools manage scheduling, attendance,<br /> payments and virtual classrooms
           all in one secure <br /> cloud-based system.
         </p>
